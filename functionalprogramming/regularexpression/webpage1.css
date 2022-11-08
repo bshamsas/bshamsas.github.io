@@ -1,0 +1,33 @@
+button{
+width: 10%;
+ color: #FFF;
+border-radius: 5px;
+background-color: blue;
+height: 50px;
+border: none;
+margin-top: 15px;
+}
+
+#container{
+    display: flex;
+   flex-direction: column;
+   width: 50%;
+   margin-left: 10px;
+   margin-right: 6px;
+}
+input[type="textbox"]{
+  width:50%;
+  height:50px;
+  border-radius: 10px;
+}
+#under-wording{
+    margin-top: 0%;
+    font-size: 15px;
+}
+span{
+    margin-top: 15px;
+}
+
+
+
+
